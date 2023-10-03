@@ -1,0 +1,2 @@
+# Jozsika
+IKT menci projekt
