@@ -1,9 +1,9 @@
 # Jozsika
 IKT menci projekt
 
- - *Pocesszor* OM
- - *RAM(ok)* VG
--  *PPT* SV
+ - *Pocesszor.docx* - OM
+ - *RAM(ok.-docx* - VG
+-  *PPT.pptx* - SV
 
 <h1>Totál értelmes giffek (3db)</h1>
 <img src="https://media.tenor.com/OuQJFJ7WqDgAAAAM/high-spongebob.gif" width="400" height="400" />
