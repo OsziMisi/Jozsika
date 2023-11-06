@@ -2,7 +2,7 @@
 IKT menci projekt
 
  - *Pocesszor.docx* - OM
- - *RAM(ok.-docx* - VG
+ - *RAM(ok).docx* - VG
 -  *PPT.pptx* - SV
 
 <h1>Totál értelmes giffek (3db)</h1>
